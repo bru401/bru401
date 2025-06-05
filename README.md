@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bruno
+# 👋 Hello, I'm Bruno!
 
 I'm an economics graduate and aspiring **Data Analyst** passionate about transforming data into actionable insights. I specialize in **data visualization and storytelling**, and solving real-world problems using tools like **Power BI, Python, SQL**, and combining those with my knowledge of economics a public policy.
 I'm currenting looking for work, in person (Rio de Janeiro) or remote.
@@ -20,6 +20,9 @@ I'm currenting looking for work, in person (Rio de Janeiro) or remote.
 - 🔎 Building dynamic dashboards with time-based KPIs  
 - 🎯 Improving multivariate analysis and statistical storytelling  
 - 🧪 Learning advanced Power BI (e.g. DAX patterns, data modeling)
+
+## Check out my main repository for my data analysis portfolio
+https://github.com/bru401/Main
 
 ---
 

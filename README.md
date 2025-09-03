@@ -16,7 +16,7 @@ I'm currenting looking for work, in person (Rio de Janeiro) or remote.
 
 ## 🧠 What I'm Working On
 
-- Enrolled in a post-graduation course in Data Science and Analytics
+- Currently enrolled in a post-graduation course in Data Science and Analytics at PUC-Rio
 - Adding a PowerBI project to my portfolio
 - Demonstrating a full data science pipeline using SQL
 - More complex data analysis projects, with an emphasis in statistics
